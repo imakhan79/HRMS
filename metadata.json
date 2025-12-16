@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Horizon HRMS",
+  "description": "AI-native Human Resource Management System transforming HR from administrative to strategic with predictive analytics and intelligent automation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
